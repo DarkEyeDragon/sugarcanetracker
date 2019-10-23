@@ -1,0 +1,4 @@
+name: Sugarcanetracker
+version: ${project.version}
+main: me.darkeyedragon.sugarcanetracker.Sugarcanetracker
+api-version: 1.13
