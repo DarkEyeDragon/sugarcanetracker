@@ -34,7 +34,6 @@ public class SugarcaneStats implements CommandExecutor {
                             StringBuilder stringBuilder = new StringBuilder();
                             stringBuilder.append(plugin.getConfigHandler().getHeader());
                             String body = plugin.getConfigHandler().getBody();
-                            System.out.println(body);
                             String formattedStr = ChatColor.translateAlternateColorCodes('&', body);
 
                             plugin.getController().getTop().forEach((sugarUser) -> {
