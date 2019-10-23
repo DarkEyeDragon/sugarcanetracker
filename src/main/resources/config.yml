@@ -1,0 +1,7 @@
+leaderboard:
+  #Header
+  - "&6======== Leaderboard ========"
+  #Body
+  - "&6{player} &8-&6 {amount}"
+  #Footer
+  - "&6============================"
